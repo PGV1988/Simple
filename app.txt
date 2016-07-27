@@ -1,0 +1,5 @@
+[2016-07-21 15:56:10] name.WARNING: Foo [] []
+[2016-07-21 15:56:15] name.WARNING: Foo [] []
+[2016-07-21 16:00:06] name.WARNING: Foo [] []
+[2016-07-21 16:10:04] name.WARNING: Foo [] []
+[2016-07-21 16:10:42] name.WARNING: Ooh Nose. [] []
